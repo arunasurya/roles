@@ -32,10 +32,11 @@ quality blog posts on a regular basis.
 TBD
 
 ## Blog Platforms
-- Bisq blog site: https://bisq.network/blog
-- Medium
+- [Bisq blog site](https://bisq.network/blog)
+- [Medium](medium.com/bisq-network)
 
 ## Bisq Communication Platforms
 - Bisq landing page
 - Bisq Twitter
+- Bisq Facebook
 - Bisq Community
